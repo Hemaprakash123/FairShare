@@ -2,7 +2,7 @@
 
 A simple, sleek web application to **split expenses among friends** after a trip or group event. Just add members, log expenses, and let the app calculate the most optimized set of settlements to minimize transactions!
 
-link:https://fair-share-ibfzyrfx2-hemas-projects-d0979d6a.vercel.app/
+link: https://fair-share-lake.vercel.app/
 
 ---
 
