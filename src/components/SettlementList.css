@@ -1,0 +1,42 @@
+.settlement-container {
+  background-color: #f4f6fa;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.settlement-title {
+  font-size: 1.8rem;
+  color: #2c3e50;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.settlement-message {
+  font-size: 1.2rem;
+  color: #27ae60;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.settlement-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.settlement-item {
+  background-color: #ffffff;
+  padding: 12px 18px;
+  margin: 10px 0;
+  border-left: 6px solid #3498db;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out;
+}
+
+.settlement-item:hover {
+  transform: translateX(5px);
+}
